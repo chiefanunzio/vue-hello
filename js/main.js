@@ -7,7 +7,7 @@ function start(){
     data:{
 
         'counter':'Quando mostro ai miei tutor che ho corretto un bug:',
-          image: "img/7.gif"
+          'image': "img/7.gif"
     }
     });
 }
